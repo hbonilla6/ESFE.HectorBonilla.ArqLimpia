@@ -1,0 +1,546 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj",
+        "projectName": "ESFE.arqLimpia.API",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj",
+        "projectName": "ESFE.arqLimpia.BL.DTOs",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj",
+        "projectName": "ESFE.arqLimpia.BL.Interfaces",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj",
+        "projectName": "ESFE.arqLimpia.BL",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.DTOs\\ESFE.arqLimpia.BL.DTOs.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL.Interfaces\\ESFE.arqLimpia.BL.Interfaces.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj",
+        "projectName": "ESFE.arqLimpia.DAL",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj",
+        "projectName": "ESFE.arqLimpia.EN.Interfaces",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\ESFE.arqLimpia.EN.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.EN.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj",
+        "projectName": "ESFE.arqLimpia.loC",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\ESFE.arqLimpia.loC.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.loC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj"
+              },
+              "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj": {
+                "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj",
+        "projectName": "ESFE.arqLimpia.Ne",
+        "projectPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\ESFE.arqLimpia.Ne.csproj",
+        "packagesPath": "C:\\Users\\h\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.Ne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\h\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

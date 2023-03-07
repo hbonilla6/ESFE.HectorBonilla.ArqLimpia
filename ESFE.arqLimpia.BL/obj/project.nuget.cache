@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NAVx8AoELDYvrcDAOCaUF5vavPp8wo0oGp96+V64F1ZeKNlLIZ/H6BIPdsMjIPrlYQzlJaG6QHNgVdwm/fIGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.BL\\ESFE.arqLimpia.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\h\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

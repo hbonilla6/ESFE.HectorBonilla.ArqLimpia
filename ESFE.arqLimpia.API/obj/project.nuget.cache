@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaK8eitJTh1mjJ6XRhecMJVPX7MePKAUnmiJBP4Mkv7c07Liag99hyVC4S9gLYOmEIywiQG1PMMjk8fyVK+b4A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.API\\ESFE.arqLimpia.API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Data.SqlClient\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/index.json\".",
+      "libraryId": "Microsoft.Data.SqlClient"
+    }
+  ]
+}

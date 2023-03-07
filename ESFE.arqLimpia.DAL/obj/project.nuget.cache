@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AsGJ1/URE2qHqUj+umlAhyTdlh/xHOa2N6aoj+eUA8aU/NPECnVh55pZPCcqLH7i49BhMNwogYpLTKwBMZT+w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\h\\Downloads\\ESFE.HECTOR.ArqLimpia-main\\ESFE.arqLimpia.DAL\\ESFE.arqLimpia.DAL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "No se pudo descargar el paquete \"Microsoft.Data.SqlClient.5.0.1\" de \"https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/5.0.1/microsoft.data.sqlclient.5.0.1.nupkg\".\r\nError al enviar la solicitud.\r\n  Se ha terminado la conexión: No se puede establecer una relación de confianza para el canal seguro SSL/TLS.\r\n  El certificado remoto no es válido según el procedimiento de validación."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Data.SqlClient\" del origen remoto \"https://api.nuget.org/v3-flatcontainer/microsoft.data.sqlclient/index.json\".",
+      "libraryId": "Microsoft.Data.SqlClient"
+    }
+  ]
+}
